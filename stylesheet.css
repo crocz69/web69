@@ -1,0 +1,408 @@
+/* div {
+    
+    background-color:#000000;
+    width: 300px;
+    border: 15px #000000;
+    padding: 50px;
+    margin: auto;
+  }
+body{
+    background: #000000;
+}
+h1{
+    text-align: left;
+    color: white;
+    font-family: arial;
+    
+} */
+/* nav .box{
+    background-color:#000000;
+    width: 50px;
+    height: 200px;
+    border: 15px #000000;
+    padding: 50px;
+    margin: auto;
+} */
+
+/* 
+div {
+    text-align: left;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+/* body {
+    background-color:#f2f2f2f2;
+    width: 300px;
+    height: 400px;
+    border: 15px #000000;
+    padding: 50px;
+    margin: auto;
+
+} */
+/* nav .topnav{
+    text-align:center;
+   
+} */
+/* nav .box{
+    background-color:#0a0a0af2;
+    width: 300px;
+    height: 100px;
+    border: 50px #e22e2e;
+    padding: 20px;
+    margin: auto;
+
+}
+nav .logo{
+    text-size-adjust: large;
+    color: white;
+    
+}
+ button{
+     padding: 5px;
+     color: white;
+    background-color: rgb(43, 41, 41);
+    border: 0;
+
+} */
+/* *{
+    height: 1000px;
+    width: 1000px;
+
+    margin:0;
+    padding:0 ;
+    color: white;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+/* ::placeholder{
+    padding-left: 5px;
+    color:white
+} */
+  input{
+     color: white;
+     /* padding: 10px,20px; */
+    border: 0;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    font-size: 15px;
+    background-color: #110f0f;
+    /* position: absolute; */
+                /* top: 355px;
+                left: 575px; */
+                height: 40px;
+                width: 250px
+}
+
+
+body {
+    background-color:#000000;
+    width: 700px;
+    height: 1000px;
+    border: 15px #000000;
+    padding: 50px;
+    margin: auto;
+
+}
+ /* button{
+    color: blueviolet;
+    padding: 0;
+} */
+.logo{
+    font-family: Arial;
+    font-size: 40px;
+    color: white;
+}
+
+.boxa{
+    background-color: #110f0f;
+    font-size: 15px;
+    width: 150px;
+    height: 25px;
+    float: left;
+    color:white;
+    border: 0;
+    margin: 5px;
+    
+    
+
+
+}
+.boxb{
+    background-color: #110f0f;
+    font-size: 15px;
+    width: 150px;
+    height: 25px;
+    float: left;
+    color: white;
+    border: 0;
+    margin: 5px;
+
+    
+    
+
+
+}
+.boxc{
+    background-color: #110f0f;
+    font-size: 15px;
+    width: 150px;
+    height: 25px;
+    float: left;
+    color: white;
+    border: 0;
+    margin: 5px;
+  
+    
+
+
+}
+
+.boxd{
+    background-color: #110f0f;
+    font-size: 15px;
+    width: 150px;
+    height: 25px;
+    float: left;
+    color: white;
+    border: 0;
+    margin: 5px;
+
+
+}
+/* .box-five{
+    font-size: larger;
+    margin-top: 15px;
+    color: white;
+    width: 50%;
+    height: 35px;
+    background-color: rgb(247, 101, 3);
+    margin-left: 10%;
+} */
+
+i {
+    /* margin-left: 25%;
+    font-size: 50px; 
+    float: right;
+    padding: 10px 16px;
+    text-align: end; */
+    text-align: left;
+    float: right;
+    
+}
+/* button{
+    background-color: #272525;
+    color: white;
+    border: 0;
+    margin-left: 5px;
+} */
+.box-one :hover, .box-two :hover, .box-three :hover, .box-four :hover{
+    background-color: #000;
+}
+
+.box-five{
+   background-color: rgb(252, 75, 10);
+    color: rgb(238, 236, 236);
+    margin-top: 20px;
+    height: 40px;
+    width: 250px;
+    margin-left: 25%;
+    padding: 0;
+    border: 0;
+    font-size: 20px;
+
+}
+.box-six :hover{
+    background-color: #000;
+}
+.box-eight{
+    text-indent: -50%;
+    font-size: 25px;
+    background-color: #110f0f;
+    color: white;
+    height: 50px;
+    width: 600px;
+    margin-top: 10px;
+    border: 0;
+    margin-left: 0px;
+}
+.box-seven :hover{
+    background-color: #000;
+}
+.texta{
+    color: white;
+    margin-top: 10px;
+    background-color: #110f0f;
+    width: 650px;
+    margin-bottom: 10px;
+    float: left;
+    text-indent: 10px;
+    height: 25px;
+    padding: 1px;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(252, 75, 10);
+}
+/* .list{
+    text-decoration: none;
+} */
+
+.lista{
+    background-color: #110f0f;
+    height: 20px;
+    width: 200px;
+    margin-top: 6%;
+    padding: 5px;
+    text-indent: 40px;
+
+}
+.listb{
+    background-color: #110f0f;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    margin-top: 0.5%;
+    padding: 5px;
+    text-indent: 40px;
+
+}
+.listc{
+    background-color: #110f0f;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    margin-top: 0.5%;
+    padding: 5px;
+    text-indent: 40px;
+
+}
+.listd{
+    background-color: #110f0f;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    margin-top: 0.5%;
+    padding: 5px;
+    text-indent: 40px;
+
+}
+.liste{
+    background-color: #110f0f;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    margin-top: 0.5%;
+    padding: 5px;
+    text-indent: 40px;
+
+}
+.lista :hover{
+    color: #000;
+}
+
+.listb :hover{
+    color: #000;
+}
+
+.listc :hover{
+    color: #000;
+}
+
+.listd :hover{
+    color: #000;
+}
+
+.liste :hover{
+    color: #000;
+}
+.final{
+    height: 160px;
+    width: 420px;
+    background-color: #110f0f;
+    color: white;
+    margin-left: 230px;
+    margin-top: -165px;
+    padding: 1px;
+    display: block;
+
+}
+
+.enda {
+    color: white;
+    margin: 4%;
+    height: 40px;
+    width: 300px;
+    display: block;
+    border: 0;
+    background-color: rgb(252, 75, 10);
+    margin-left: 25%;
+    font-size: 20px;
+
+}
+.end :hover {
+    background-color: #000;
+}
+.dot {
+    margin-left: 1%;
+    margin-right: 5%;
+    float: left;
+    height: 25px;
+    width: 25px;
+    background-color:rgb(252, 75, 10);
+    border-radius: 50%;
+    display: inline-block;
+ }
+ img{
+     border: 0;
+     margin-top: 1.5%;
+     float: left;
+/* margin-bottom: 7%;
+margin-right: 29%; */
+ }
+/* .finala{
+    text-indent: 40px;
+    
+
+  } */ 
+/* .finala{
+    height: 50px ;
+    width: 350px;
+}
+.finalb{
+    height: 50px ;
+    width: 350px;
+}
+.finalc{
+    height: 50px ;
+    width: 350px;
+} */
+
+/* .final{
+    background-color: #110f0f;
+    color:white;
+    margin-top: 10px;
+    margin-right: -100px ;
+    height: 250px;
+    width: 300px;
+} */
+/* .list{
+    color: rgb(252, 75, 10);
+    width: 1px;
+
+} */
+
+
+
+
+
+/* .boxes {
+    background-color: #333030;
+} */
+/* .boxes{
+    background-color: #272222;
+} */
+
+
